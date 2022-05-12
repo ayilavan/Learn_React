@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/ayilavan/Learn_React).
+This project was bootstrapped with [MY React App](https://github.com/ayilavan/Learn_React).
 
 ## Available Scripts
 
